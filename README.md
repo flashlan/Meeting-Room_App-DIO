@@ -9,7 +9,7 @@ A simple Meeting Room app Manager writen in Angular 9 (frontend)  and using Spri
 
 1. First build and start the server in Intellij.
 
-	Note: *The server use a h2 volatile database, and then every restart of the server the database is cleared.*
+	Remenber: *The server use a h2 volatile database, and then every restart of the server the database content will be cleared.*
 
 
 2. Start the Angular project:
