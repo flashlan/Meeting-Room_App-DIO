@@ -22,7 +22,7 @@ you can use npx (a Angular version manager) combined with nvm:
 	npm install -g npx
 	npx ng serve
 	```
-	The project is configuraed to listen on port 8087
+	The backend part of the project is configuraed to listen on port 8087 (REST) endend the uri with  /api/v1/rooms .
 
 3. go to url: [http://localhost:4200](http://localhost:4200) to test the project.
 
