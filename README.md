@@ -24,8 +24,17 @@ you can use npx (a Angular version manager) combined with nvm:
 	```
 	The project is configuraed to listen on port 8087
 
-3. go to url: [http://localhost:8087/api/v1/rooms](http://localhost:8087/api/v1/rooms) to test the project.
+3. go to url: [http://localhost:4200](http://localhost:4200) to test the project.
 
 
+OR...
+
+Use the linux bash script provided on root directory to start both backend and frontend services:
+
+```
+./run.sh
+```
+----
 based on a [@Kamilahsantos](https://github.com/Kamilahsantos) project, part of a  [Digital Innovation One] (https://web.digitalinnovation.one/) bootcammp activity.
+
 
