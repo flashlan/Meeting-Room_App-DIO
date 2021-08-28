@@ -35,6 +35,6 @@ Use the linux bash script provided on root directory to start both backend and f
 ./run.sh
 ```
 ----
-based on a [@Kamilahsantos](https://github.com/Kamilahsantos) project, part of a  [Digital Innovation One] (https://web.digitalinnovation.one/) bootcammp activity.
+based on a [@Kamilahsantos](https://github.com/Kamilahsantos) project, part of a  [Digital Innovation One](https://web.digitalinnovation.one/) bootcammp activity.
 
 
