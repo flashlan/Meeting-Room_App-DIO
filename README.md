@@ -27,5 +27,5 @@ you can use npx (a Angular version manager) combined with nvm:
 3. go to url: [http://localhost:8087/api/v1/rooms](http://localhost:8087/api/v1/rooms) to test the project.
 
 
-based on a @Kamilahsantos project, part of a  [Digital Innovation One] (https://web.digitalinnovation.one/) bootcammp activity.
+based on a [@Kamilahsantos](https://github.com/Kamilahsantos) project, part of a  [Digital Innovation One] (https://web.digitalinnovation.one/) bootcammp activity.
 
